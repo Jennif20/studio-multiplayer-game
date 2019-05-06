@@ -105,7 +105,7 @@ const gameData = {
     title: "fight",
     authors: "Linhong Zhou, Jennifer P",
     description: "FIGHT!",
-    minUsers: 2,
+    minUsers: 1,
     maxUsers: 2,
     component: fight
   }
